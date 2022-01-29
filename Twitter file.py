@@ -6,10 +6,10 @@ import json
 import sentiment_mod as s
 
 #consumer key, consumer secret, access token, access secret.
-ckey="UMm8EtI96IaTGxDGdiOFwkmlD"
-csecret="HtiArCpW6v4ZqM4U0Q2sCOYPGU73At122smehiW9nQiei3LcYa"
-atoken="1175125215749103616-bbnBq51p0MIzYKhPOnkgnXkpoFPuxE"
-asecret="55Hcd4zvoWoFtJ3mrHzNYWEU077qXb7MqjKTotHexOjqD"
+ckey=""
+csecret=""
+atoken="-"
+asecret=""
 
 class listener(StreamListener):
 
